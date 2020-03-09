@@ -1,5 +1,5 @@
 class Post 
 
-attr_accessor :name, :Author 
+attr_accessor :title, :Author 
   
 end
